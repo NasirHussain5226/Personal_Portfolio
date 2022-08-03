@@ -9,6 +9,7 @@ import nextjs from "../assets/Experience/nextjs.png";
 import laravel from "../assets/Experience/laravel.png";
 import github from "../assets/Experience/github.png";
 import tailwind from "../assets/Experience/tailwind.png";
+import firebase from "../assets/Experience/firebase.png"
 
 
 const Experience = () => {
@@ -26,49 +27,55 @@ const Experience = () => {
       style: "shadow-blue-600",
     },
     {
-        id: 5,
-        src: tailwind,
-        title: "Tailwind",
-        style: "shadow-sky-500",
+      id: 3,
+      src: tailwind,
+      title: "Tailwind",
+      style: "shadow-sky-500",
       },
     {
-      id: 3,
+      id: 4,
       src: javascript,
       title: "JavaScript",
       style: "shadow-yellow-600",
     },
     {
-        id: 9,
-        src: jQuery,
-        title: "jQuery",
-        style: "shadow-blue-500",
+      id: 5,
+      src: jQuery,
+      title: "jQuery",
+      style: "shadow-blue-500",
     },
     {
-      id: 4,
+      id: 6,
       src: reactImage,
       title: "React",
       style: "shadow-blue-800",
     },
   
     {
-        id: 6,
-        src: nextjs,
-        title: "Next JS",
-        style: "shadow-white",
+      id: 7,
+      src: nextjs,
+      title: "Next JS",
+      style: "shadow-white",
     },
 
   
     {
-      id: 7,
+      id: 8,
       src: laravel,
       title: "Laravel",
       style: "shadow-red-500",
     },
     {
-      id: 8,
+      id: 9,
       src: github,
       title: "GitHub",
       style: "shadow-gray-500",
+    },
+    {
+      id: 10,
+      src: firebase,
+      title: "FireBase",
+      style: "shadow-yellow-500",
     },
 
   ];
