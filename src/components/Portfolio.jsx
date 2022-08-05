@@ -1,5 +1,5 @@
 import React from 'react'
-import reactWeather from '../assets/Portfolio/WeatherImage.jpg';
+import reactWeather from '../assets/Portfolio/reactweatherapp.png';
 // import portfolioimage from '../assets/Portfolio/PortfolioImage2.jpg';
 // import reactWeather from '../assets/Portfolio/WeatherImage.jpg';
 
@@ -9,14 +9,14 @@ const Portfolio = () => {
     {
       id: 1,
       src: reactWeather,
-      href: 'https://github.com/NasirHussain5226',
+      href: 'https://nasirhussain-react-weather-app.netlify.app/',
       href2: 'https://github.com/NasirHussain5226'
 
     },
     {
       id: 2,
       src: reactWeather,
-      href: 'https://github.com/NasirHussain5226',
+      href: 'https://nasirhussain-react-weather-app.netlify.app/',
       href2: 'https://github.com/NasirHussain5226'
 
     },
