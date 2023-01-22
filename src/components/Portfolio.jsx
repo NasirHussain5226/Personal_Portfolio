@@ -23,13 +23,13 @@ const Portfolio = () => {
     {
       id: 3,
       src: reactWeather,
-      href: 'https://github.com/NasirHussain5226',
+      href: 'https://nasirhussain-react-weather-app.netlify.app/',
       href2: 'https://github.com/NasirHussain5226'
     },
     {
       id: 4,
       src: reactWeather,
-      href: 'https://github.com/NasirHussain5226',
+      href: 'https://nasirhussain-react-weather-app.netlify.app/',
       href2: 'https://github.com/NasirHussain5226'
     },
   ];
